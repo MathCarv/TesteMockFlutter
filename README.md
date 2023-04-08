@@ -1,6 +1,8 @@
-# exercicio
+# Atividade 06 - Teste Mock
 
-A new Flutter project.
+Teste Mock realizado em uma RestAPI
+
+![teste_mock](https://user-images.githubusercontent.com/96321313/230739619-80612059-2b55-49e4-8962-23dbf7fc7b9d.png)
 
 ## Getting Started
 
