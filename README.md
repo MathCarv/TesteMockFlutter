@@ -1,5 +1,3 @@
-[![CI](https://github.com/MathCarv/README-E-CI/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/MathCarv/README-E-CI/actions/workflows/CI.yml)
-
 # Flutter Teste Mock
 Desenvolvido para realizar testes mocks utilizando uma API de HTTP.
 ## Requisitos necessários
