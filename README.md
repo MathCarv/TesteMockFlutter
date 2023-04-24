@@ -77,7 +77,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 ## Como rodar
 ### 1. Clonar o repo
 ```bash
-git clone https://github.com/KenzoUMZ/flutter-calculator
+git clone https://github.com/MathCarv/TesteMockFlutter
 ```
 
 ### 2. Instalar as dependências
